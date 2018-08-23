@@ -1,0 +1,9 @@
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Debug\wf_TAASHAATOE.exe.config
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Debug\wf_TAASHAATOE.exe
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Debug\wf_TAASHAATOE.pdb
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Debug\wf_TAASHAATOE.csprojResolveAssemblyReference.cache
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Debug\wf_TAASHAATOE.Form1.resources
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Debug\wf_TAASHAATOE.Properties.Resources.resources
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Debug\wf_TAASHAATOE.csproj.GenerateResource.Cache
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Debug\wf_TAASHAATOE.exe
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Debug\wf_TAASHAATOE.pdb

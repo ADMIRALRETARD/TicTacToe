@@ -1,0 +1,17 @@
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Release\wf_TAASHAATOE.exe.config
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Release\wf_TAASHAATOE.exe
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Release\wf_TAASHAATOE.pdb
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.Form1.resources
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.Properties.Resources.resources
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.csproj.GenerateResource.Cache
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.exe
+c:\users\gercules\documents\visual studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.pdb
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Release\wf_TAASHAATOE.exe.config
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Release\wf_TAASHAATOE.exe
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\bin\Release\wf_TAASHAATOE.pdb
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.csprojResolveAssemblyReference.cache
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.Form1.resources
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.Properties.Resources.resources
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.csproj.GenerateResource.Cache
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.exe
+D:\backup2017\Visual Studio 2015\Projects\wf_TAASHAATOE\wf_TAASHAATOE\obj\Release\wf_TAASHAATOE.pdb
