@@ -106,7 +106,7 @@ namespace wf_TAASHAATOE
             else
             {
                 if(turn_count==9)
-                    MessageBox.Show("ХВАТИТ ТУТ КУРИТЬ , ШАБИТЬ!!");
+                    MessageBox.Show("ХВАТИТ ТУТ ХУЛИГАНИТЬ!!");
             }
         } //Checkforwinner
 
